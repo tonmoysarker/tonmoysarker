@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @tonmoysarker
-- 👀 I’m interested in Software/Web Development
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Angular and ASP.NET project
-- 📫 How to reach me ...
+👋 Hello, I'm @tonmoysarker!
+
+👀 Passionate about Software and Web Development.
+
+🌱 Currently expanding my skills with Vue.js.
+
+💼 Open to collaborating on exciting Vue.js projects.
+
+📧 Feel free to reach out to me at tonmoysarker6302@gmail.com.
 
 <!---
-tonmoysarker/tonmoysarker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+**@tonmoysarker/tonmoysarker** is a ✨special✨ repository, featuring this `README.md` file on my GitHub profile. Click the "Preview" link above to see it in action!
 --->
